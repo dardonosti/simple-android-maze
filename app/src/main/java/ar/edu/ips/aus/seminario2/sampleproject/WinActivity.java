@@ -33,6 +33,7 @@ public class WinActivity extends AppCompatActivity {
     }
 
     public void Salir(View v) {
-        finish();
+        finishAffinity();
+        //finish();
     }
 }

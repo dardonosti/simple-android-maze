@@ -314,7 +314,7 @@ public class MazeBoard {
                 maze.board[62] = new BoardPiece(true,false,true,false);
                 maze.board[63] = new BoardPiece(true,true,false,false);
 
-                maze.board[31].setWinFlag(true); //SET WIN FLAG
+                maze.board[36].setWinFlag(true); //SET WIN FLAG
                 break;
 
             }
